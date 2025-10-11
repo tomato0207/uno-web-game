@@ -72180,7 +72180,7 @@ s=q.cx
 s.M$=r
 s.y2$=0
 q.aB()},
-a8o(){var s=this,r=A.atQ(A.l9("wss://e4eabe79bfab.ngrok-free.app/uno/game"),null)
+a8o(){var s=this,r=A.atQ(A.l9("wss://6f3701b0e494.ngrok-free.app/uno/game"),null)
 s.d=r
 r=r.r.b
 r===$&&A.a()
