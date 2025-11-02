@@ -5,7 +5,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
-        android:label="uno_web_client"
+        android:label="番茄的UNO"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         
