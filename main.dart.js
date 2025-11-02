@@ -74667,7 +74667,7 @@ s=q.cx
 s.N$=r
 s.y2$=0
 q.aC()},
-aam(){var s=this,r=A.awf(A.lA("wss://50dc5fcb39e2.ngrok-free.app/uno/game"),null)
+aam(){var s=this,r=A.awf(A.lA("wss://bc9ff94e9952.ngrok-free.app/uno/game"),null)
 s.d=r
 r=r.r.b
 r===$&&A.a()
