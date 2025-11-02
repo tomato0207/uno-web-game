@@ -67,7 +67,7 @@ class _UnoHomePageState extends State<UnoHomePage> {
 
   // --- 連線核心 ---
   void connect() {
-    channel = WebSocketChannel.connect(Uri.parse('wss://50dc5fcb39e2.ngrok-free.app/uno/game'));
+    channel = WebSocketChannel.connect(Uri.parse('wss://bc9ff94e9952.ngrok-free.app/uno/game'));
 
     channel.stream.listen(
       (message) {
